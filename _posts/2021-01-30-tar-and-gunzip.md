@@ -76,3 +76,19 @@ $ tar zcvf archive.tar.gz file1 file2
 
 $ tar zxcf archive.tar.gz -C /path/to/dir/
 ```
+
+### Quick note on zip/unzip
+To interact with `.zip` files, you will need `zip` and `unzip` on the Linux machine.
+
+Create a zip file
+
+`$ zip archive file1 file2`
+
+Unzip a zip file
+`$ unzip archive.zip`
+
+Unzip a zip file to a specific directory
+`$ unzip archive.zip -d /path/to/dir`
+
+List contents of a zip file
+`$ zip -l archive.zip`
