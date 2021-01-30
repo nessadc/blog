@@ -9,4 +9,4 @@ I primarily write Ansible and Terraform code as part of our Infrastructure as Co
 
 My other interests are jiu jitsu, Muay Thai, hiking and cars.
 
-I can be reached at nessad.choudhury@gmail.com
+I can be reached at nessad.choudhury@gmail.com.
